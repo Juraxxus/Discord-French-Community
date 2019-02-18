@@ -10,9 +10,9 @@
   <p>
    
 
-## About
+## Qui sommes - nous ?
 
-Je vous présente aujourd'hui un serveur discord qui a pour but de regrouper la communauté Française afin de pouvoir jouer, parler, débattre plus facilement car il est parfois difficile de se retrouver ensemble en jeu.
+Nous sommes un serveur discord qui a pour but de regrouper la communauté Française afin de pouvoir jouer, parler, débattre plus facilement car il est parfois difficile de se retrouver ensemble en jeu. Un environement stable est légal. Nous sommes à la fois sympathiques et accueillants vous trouverez tout votre confort sur ce serveur discord.
 
 
 
