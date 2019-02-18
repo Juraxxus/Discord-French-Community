@@ -4,7 +4,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://discord.js.org"><img src="http://www.freedos.org/images/logos/fdfish-glossy-plain.svg" width="546" alt="discord.js" /></a>
+    <a href="https://discord.js.org"><img src="https://discordapp.com/assets/bb408e0343ddedc0967f246f7e89cebf.svg" width="546" alt="discord.js" /></a>
   </p>
   <br />
   <p>
